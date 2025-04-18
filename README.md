@@ -1,6 +1,6 @@
 # Euro Lux 🔍
 
-![Euro Lux]([[https://via.placeholder.com/150x50?text=WorkPoland+HR+Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fragrantica.pl%2Fmarki%2FEurolux.html&psig=AOvVaw1XEOiKDeoL11o8Q2Y-cc2L&ust=1745086317074000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiO0a2Y4owDFQAAAAAdAAAAABAE)](https://www.eurolux.com.tr/wp-content/uploads/2022/12/eurolux-1-kopya.png))
+![Euro Lux](https://github.com/svk-omega28/euro_lux/blob/master/themes/profi/assets/dist/images/logo.png)
 
 > Эффективный подбор квалифицированного персонала для работы в Польше 🇵🇱
 
