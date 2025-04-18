@@ -1,6 +1,6 @@
-# WorkPoland HR 🔍
+# Euro Lux 🔍
 
-![WorkPoland HR Logo]([https://via.placeholder.com/150x50?text=WorkPoland+HR+Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fragrantica.pl%2Fmarki%2FEurolux.html&psig=AOvVaw1XEOiKDeoL11o8Q2Y-cc2L&ust=1745086317074000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiO0a2Y4owDFQAAAAAdAAAAABAE))
+![Euro Lux]([https://via.placeholder.com/150x50?text=WorkPoland+HR+Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fragrantica.pl%2Fmarki%2FEurolux.html&psig=AOvVaw1XEOiKDeoL11o8Q2Y-cc2L&ust=1745086317074000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiO0a2Y4owDFQAAAAAdAAAAABAE))
 
 > Эффективный подбор квалифицированного персонала для работы в Польше 🇵🇱
 
@@ -10,7 +10,7 @@
 
 ## 🌟 О сервисе
 
-WorkPoland HR - это специализированная платформа для рекрутинга сотрудников из Украины, Беларуси и других стран для работы в Польше. Мы соединяем проверенных работодателей с квалифицированными кандидатами.
+Euro Lux - это специализированная платформа для рекрутинга сотрудников из Украины, Беларуси и других стран для работы в Польше. Мы соединяем проверенных работодателей с квалифицированными кандидатами.
 
 **Ключевые преимущества:**
 ✅ Прямые контракты с польскими компаниями  
@@ -35,10 +35,9 @@ WorkPoland HR - это специализированная платформа �
 
 ## 📞 Контакты
 
-🌐 [workpoland.hr](svk-omega28.github.io/euro_lux/)  
+🌐 [euro-lux.pl](svk-omega28.github.io/euro_lux/)  
 📧 Personal-g@ukr.net
-📱 ++48 794 441 900 (WhatsApp/Telegram/Viber)  
-
+📱 ++48 794 441 900 (WhatsApp/Telegram/Viber)
 📍 Zielona Gora, Bohaterów Westerplatte 9, Poland  
 
 ## 🤝 Сотрудничество
@@ -51,4 +50,4 @@ WorkPoland HR - это специализированная платформа �
 
 ---
 
-© 2023 WorkPoland HR | Все права защищены
+© 2025 Euro Lux HR | Все права защищены
