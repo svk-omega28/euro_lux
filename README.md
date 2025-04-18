@@ -33,12 +33,12 @@ Euro Lux - это специализированная платформа для
 ![Партнеров](https://img.shields.io/badge/Партнеров-120+-blue)  
 ![Средний_срок_подбора](https://img.shields.io/badge/Средний_срок_подбора-7_дней-orange)  
 
-## 📞 Контакты
+## 📍 Контакты
 
-🌐 [euro-lux.pl](svk-omega28.github.io/euro_lux/)  
-📧 Personal-g@ukr.net
-📱 ++48 794 441 900 (WhatsApp/Telegram/Viber)
-📍 Zielona Gora, Bohaterów Westerplatte 9, Poland  
+🌐 [euro-lux.pl](https://euro-lux.pl)  
+📧 [Personal-g@ukr.net](mailto:Personal-g@ukr.net)  
+📱 [+48 794 441 900](tel:+48794441900) (WhatsApp/Telegram/Viber)  
+📍 Zielona Góra, Bohaterów Westerplatte 9, Poland  
 
 ## 🤝 Сотрудничество
 
