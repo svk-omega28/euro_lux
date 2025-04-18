@@ -38,7 +38,7 @@ Euro Lux - это специализированная платформа для
 🌐 [euro-lux.pl](svk-omega28.github.io/euro_lux/)  
 📧 Personal-g@ukr.net
 📱 ++48 794 441 900 (WhatsApp/Telegram/Viber)
-📍 Zielona Gora, Bohaterów Westerplatte 9, Poland  
+  📍 Zielona Gora, Bohaterów Westerplatte 9, Poland  
 
 ## 🤝 Сотрудничество
 
